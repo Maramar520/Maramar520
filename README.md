@@ -1,6 +1,3 @@
 # Hi there, I'm Maramar! 👋
 
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Maramar520&theme=xcode)
